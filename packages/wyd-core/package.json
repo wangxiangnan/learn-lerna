@@ -1,6 +1,6 @@
 {
   "name": "wyd-core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "wangxiangnan <393640834@qq.com>",
   "homepage": "https://github.com/wangxiangnan/learn-lerna#readme",
@@ -15,7 +15,7 @@
   ],
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
-    "access":"public"
+    "access": "public"
   },
   "repository": {
     "type": "git",
