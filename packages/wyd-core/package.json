@@ -14,11 +14,12 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "registry": "https://registry.npmjs.org",
+    "access":"public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangxiangnan/learn-lerna.git"
+    "url": "https://github.com/wangxiangnan/learn-lerna.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"

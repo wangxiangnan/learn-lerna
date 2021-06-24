@@ -1,5 +1,5 @@
 15 error Error: Command failed with exit code 1: git remote update
-15 error ssh: connect to host github.com port 22: Connection timed out
+15 error Connection reset by 13.229.188.59 port 22
 15 error fatal: Could not read from remote repository.
 15 error
 15 error Please make sure you have the correct access rights
